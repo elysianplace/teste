@@ -1,0 +1,117 @@
+    body{
+        width:768px;
+        overflow-x: hidden;
+    }
+    .menu,.contato{
+        display: none;
+    }
+    #logo{
+        left:290px;
+        top:80px;
+        height:60px;
+        width:60px;
+    }
+    .css-slideshow,.quadrado{
+        display:none;
+    }
+    #mediascreen1{
+        position: relative;
+        left:-45px;
+        top:-90px;
+    }
+    #nomesitio{
+        font-size:55px;
+    }
+    #morales{
+        font-size: 55px;
+    }
+    #proximidadesitio{
+        width:400px;
+        text-align: center;
+        left:50px;
+    }
+    #mediascreen2{
+        position:relative;
+        top:-440px;
+        left:-75px;
+        
+    }
+    .telefones{
+        position:relative;
+        top:325px;
+        left:240px;
+    }
+    #mediascreen3{
+        position: relative;
+        top:-480px;
+        left:-70px;
+    }
+    .facebook{
+        position:relative;
+        top:348px;
+        left:240px;  
+    }
+    #media1{
+        position: relative;
+        top:250px;
+        left:-100px;
+    }
+    #infores{
+        position: relative;
+        top:-240px;
+        left:120px;
+        font-size:14px;
+        width:700px;
+    }
+    #natal{
+        display: flex;
+        position: relative;
+        top:-400px;
+        left:25px;
+        font-size:20px;
+        width:320px;
+    }
+    #local1{
+        position:relative;
+
+        display: flex;
+        position: relative;
+        top:50px;
+        left:40px;
+        font-size:20px;
+        width:320px;
+
+    }
+    .container{
+        position: relative;
+        top:-610px;
+        height:250px;
+        width:350px;
+        left:-175px;
+    }
+    #veja{
+        position:relative;
+        font-size:25px;
+        top:-600px;
+    }
+    #nossas,#fotos{
+        font-size:25px; 
+    }
+    #media2{
+        display:none;
+    }
+    #texto{
+        position: relative;
+        top:-50px;
+    }
+    #texto{
+        position: relative;
+        top:-630px;
+        left:15px;
+        font-size:14px;
+        width:300px;
+    }
+    .descricoes{
+        position: relative;
+            
+    }
